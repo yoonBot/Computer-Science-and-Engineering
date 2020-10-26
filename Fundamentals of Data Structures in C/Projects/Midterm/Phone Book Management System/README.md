@@ -1,5 +1,6 @@
 < PROPOSAL >
 
+
 [ GOAL/ACCOMPLISHMENTS ] : 
   
   Given contact names, phonebooks, and email addresses, we hope to
@@ -14,6 +15,7 @@
   5. Delete an individual contact (saves it into trash bin).
   6. Recover one recently deleted individual contact from the trash bin.
 
+
 [ ALGORITHMS ]
   
   To accomplish such features, we will use and implement the following algorithms:
@@ -26,8 +28,19 @@
         bin storage will increase twice.
       
     3. KMP (Knuth-Morris-Pratt) Algorithm
-      - Helps user find the searched node (in this case, the characters of the users' names).
+      - Helps user find the searched node (the characters of the users'names).
       
     4. Merge Sort
       - This ultimately sorts the contact list in alphabetical order.
+
+
+[ CREDITS ]
+  
+  I express my gratitude and grace to my fellow colleagues:
+    
+    1. Hyerin Kim
+    2. Yu yi Kim
+    
+    
+ 
 
