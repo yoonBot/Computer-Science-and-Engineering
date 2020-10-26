@@ -1,4 +1,7 @@
 < PROPOSAL >
+______________
+
+
 
 
 [ GOAL/ACCOMPLISHMENTS ] : 
@@ -14,6 +17,8 @@
   4. Allows the user to search an individual contact throughout the list.
   5. Delete an individual contact (saves it into trash bin).
   6. Recover one recently deleted individual contact from the trash bin.
+
+
 
 
 [ ALGORITHMS ]
@@ -32,6 +37,8 @@
       
     4. Merge Sort
       - This ultimately sorts the contact list in alphabetical order.
+
+
 
 
 [ CREDITS ]
