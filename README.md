@@ -1,1 +1,1 @@
-# Sogang-CSE
+#CSE DATA STRUCTURES IN C
