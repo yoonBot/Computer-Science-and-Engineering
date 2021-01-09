@@ -2,7 +2,7 @@
 
 Lecture Schedule: <ol>
 
-<li>Web Programming</ol>
+<li>Web Programming</li>
 <li>Web Documentation Using HTML</li>
 <li>PHP Programming</li>
 <li>JavaScript Programming</li>
