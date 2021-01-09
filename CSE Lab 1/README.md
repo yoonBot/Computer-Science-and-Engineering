@@ -3,7 +3,7 @@
 ##Lecture Schedule: 
 
 1. Basic Web Programming
-  a. Web Documentation Using HTML
+* Web Documentation Using HTML
   b. PHP Programming
   c. JavaScript Programming
 
