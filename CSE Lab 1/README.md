@@ -3,9 +3,9 @@
 ##Lecture Schedule: 
 
 1. Basic Web Programming
-* Web Documentation Using HTML
-  b. PHP Programming
-  c. JavaScript Programming
+  * Web Documentation Using HTML
+  * PHP Programming
+  * JavaScript Programming
 
 2. Programming on Unix (Linux) Environment
   a. Shell Programming
