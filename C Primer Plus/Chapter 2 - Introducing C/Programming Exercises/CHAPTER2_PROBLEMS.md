@@ -6,3 +6,18 @@
 ###### Anton          <- Second print statement
 ###### Bruckner       <- Still the second print statement
 ###### Anton Bruckner <- Third and fourth print statements
+
+#### 2. Write a program to print your name and address.
+
+#### 3. Write a program that converts your age in years to days and displays both values. At this point, don't worry about fractional years and leap years.
+
+#### 4. Write a program that produces the following output:
+
+###### For he's a jolly good fellow!
+###### For he's a jolly good fellow!
+###### For he's a jolly good fellow!
+###### Which nobody can deny!
+
+#### have the program use two user-defined functions in addition to main(): one that prints the "jolly good" message once, and one that prints the final line once.
+
+
