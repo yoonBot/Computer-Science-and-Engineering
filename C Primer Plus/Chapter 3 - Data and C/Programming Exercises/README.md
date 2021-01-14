@@ -16,4 +16,4 @@
 
 #### 6. The mass of a single molecule of water is about 3.0 x 1.0 ^ -23 grams. A quart of water is about 950 grams. Write a program that requests an amount of water, in quarts, and displaus the number of water molecules in that amount. 
 
-#### 7. There are 2.54 centimeters to the inch. Write a program that asks you to enter your height in inches and then displays your height in centimeters. Or, if you prefer, ask for the hieght in centimeters and convert that to inches. 
+#### 7. There are 2.54 centimeters to the inch. Write a program that asks you to enter your height in inches and then displays your height in centimeters. Or, if you prefer, ask for the height in centimeters and convert that to inches. 
