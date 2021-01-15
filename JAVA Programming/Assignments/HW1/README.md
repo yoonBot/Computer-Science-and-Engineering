@@ -108,7 +108,13 @@
 ##### 1) Variable Names
 ##### Start with a lowercase letter and use uppercase letters as separates. Do not use under bars ('_').
 ###### int myVar;
-##### 
+##### 2) Constant Names
+##### Use all capital letters and sue under bars as separators.
+###### final int MY_CONST = 1;
+##### 3) Method Names
+##### Start with a lowercase letter and use uppercase letters as separators. Do not use under bars.
+###### Public class MyClassName
+
 
 
 
