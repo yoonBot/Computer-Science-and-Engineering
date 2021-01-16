@@ -102,7 +102,7 @@
 ###### The 1st place is student 4 with 90 points. 
 ###### The 2nd place is student 2 with 70 points. 
 
-### * Java Name Convention 
+### * Java Naming Convention 
 
 ##### When you write Java code, it is good to follow the Java Naming Convention, which is a rule for naming variables, constants, methods, and classes.
 ##### 1) Variable Names
