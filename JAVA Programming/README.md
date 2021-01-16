@@ -33,5 +33,21 @@
 ##### 2. Collection Framework 1 - Interfaces, Lists, Sets, Maps, ArrayList, Vector
 
 ### Week 9.
-##### 1. Collection Framework 2 - 
-##### 2. 
+##### 1. Collection Framework 2 - LinkedList, Stacks + Queue
+##### 2. Collection Framework 3 - Iterator, More on Arrays (Advanced), Comparator
+
+### Week 10.
+##### 1. Collection Framework 4 - Hashset, TreeSet
+##### 2. Colelction Framework 5 - HashMap, TreeMap
+
+### Week 11.
+##### 1. Networking with Java 1 - InetAddress, URL
+##### 2. Networking with Java 2 - Accessing HTML Contents, Modifying HTML Files
+
+### Week 12.
+##### 1. Multithreaded Programming with Java 1 - Implementing Threads
+##### 2. Networking with Java 3 - TCP Socket Programming
+
+### Week 13. 
+##### 1. Networking with Java 4 - UDP Socket Programming and Chat Programs w/ Multiple Users
+##### 2. Multithreaded Programming with Java 2 - Thread States and More Advanced Thread Techniques
