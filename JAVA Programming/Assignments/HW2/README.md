@@ -146,5 +146,16 @@
 ###### null
 ###### false
 
+### * Java Naming Convention 
 
+##### When you write Java code, it is good to follow the Java Naming Convention, which is a rule for naming variables, constants, methods, and classes.
+##### 1) Variable Names
+##### Start with a lowercase letter and use uppercase letters as separates. Do not use under bars ('_').
+###### int myVar;
+##### 2) Constant Names
+##### Use all capital letters and sue under bars as separators.
+###### final int MY_CONST = 1;
+##### 3) Method Names
+##### Start with a lowercase letter and use uppercase letters as separators. Do not use under bars.
+###### Public class MyClassName
 
