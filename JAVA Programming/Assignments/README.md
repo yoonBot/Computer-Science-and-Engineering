@@ -6,6 +6,5 @@
 #### 3. I did use the internet for references. However, I did not copy and paste the code from the internet.
 #### 4. The source codes are developed from my basic understanding from Java.
 #### 5. Basic resources used: 
-##### 1. Core Java Volume 1 - Fundamentals (11th Edition) by Cay S. Horstmann
-##### 2. Lecture Notes
-
+###### a. Core Java Volume 1 - Fundamentals (11th Edition) by Cay S. Horstmann
+###### b. Lecture Notes
