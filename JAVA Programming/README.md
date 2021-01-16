@@ -1,0 +1,37 @@
+# <center> CSE3040 Java Programming (Fall 2020)
+
+### Week 1. 
+##### 1. Course Intro / Introduction to Java
+##### 2. Java Programming Basics 1 - Hello World, Calling Methods, Primitive Types, Variables
+
+### Week 2. 
+##### 1. Java Programming Basics 2 - Arithmetic Operators and Typecasting 
+##### 2. Java Programming Basics 3 - Arithmetic Operators (continued) and Introduction to Strings
+
+### Week 3. 
+##### 1. Java Programming Basics 4 - Strings (continued), Input/Output, and Control Flow
+##### 2. Java Programming Basics 5 - Arrays
+
+### Week 4.
+##### 1. Object-Oriented Programming 1 - Class Definition, Instance Variables, Access Modifiers, Methods (Public/Private), Objects, Constructors
+##### 2. Object-Oriented Programming 2 - Array of Objects, Instance + Static Variables, Static Methods, Java - Call By Value
+
+### Week 5. 
+##### 1. Object-Oriented Programming 3 - Interfaces
+##### 2. Object-Oriented Programming 4 - Interfaces (continued), Class Extensions, Super/Sub Classes, Method Overriding 
+
+### Week 6. 
+##### 1. Object-Oriented Programming 5 - Sub Class, Implicit Constructors, Dynamic Methods, Final Methods/Classes, Abstract Methods/Classes, Protected Access, Superclass + Interface, Class Objects
+##### 2. File Input and Output
+
+### Week 7.
+##### 1. Exception Handling
+##### 2. Generic Programming 1 - Generic Classes
+
+### Week 8.
+##### 1. Generic Programming 2 - Generic Classes (continued), Detour, Generic Methods, Casting + Erasure of Generic Types
+##### 2. Collection Framework 1 - Interfaces, Lists, Sets, Maps, ArrayList, Vector
+
+### Week 9.
+##### 1. Collection Framework 2 - 
+##### 2. 
