@@ -1,4 +1,5 @@
-/* C Primer Plus Ch.2 - Problem 1 */
+/* C Primer Plus Ch.2 - Problem 1 
+   Reproduced by: yoonBot */
 
 #include <stdio.h>
 
