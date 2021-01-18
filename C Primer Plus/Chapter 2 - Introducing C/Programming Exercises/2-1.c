@@ -1,5 +1,6 @@
 /* C Primer Plus Ch.2 - Problem 1 
-   Reproduced by: yoonBot */
+ * Reproduced by: yoonBot
+ */
 
 #include <stdio.h>
 
