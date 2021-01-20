@@ -1,6 +1,6 @@
 ### <h1 align="center"> COMPUTER SCIENCE AND ENGINEERING ASSIGNMENTS AND EXAMPLE SOURCE CODES
 
-![IMG_4736](https://user-images.githubusercontent.com/73013239/105243549-8d6d7800-5bb2-11eb-998b-fa87ab2c30cc.GIF)
+![B3727BE6-EB69-4668-8B89-79E95FD34B92](https://user-images.githubusercontent.com/73013239/105247750-a547fa80-5bb8-11eb-8fc1-5dd52444385d.GIF)
 
 
 #### **`Classes >`** :pencil2:
