@@ -5,7 +5,7 @@
 
 #### **`Classes >`** :pencil2:
 
- 0. Python
+ 0. Python Programming
  1. Beginner's C
  2. C Programming (Advanced)
  3. Java Programming
@@ -18,3 +18,8 @@
  10. Operating Systems
  
 #### **`Reminders >`**
+
+ 1. All assignments/class projects are from past/current semesters. We cannot guarantee the future.
+ 2. All assignment/projects are written by myself only. I did look up the internet for references.
+ 3. This repository is basically just my notes (of source codes) acquired from lectures from past semesters.
+ 4. Textbook credentials are given at each topic's separate repository.
