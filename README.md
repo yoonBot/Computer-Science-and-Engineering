@@ -3,7 +3,7 @@
 ![IMG_4736](https://user-images.githubusercontent.com/73013239/105243549-8d6d7800-5bb2-11eb-998b-fa87ab2c30cc.GIF)
 
 
-#### ** `Classes >` ** :pencil2:
+#### `Classes >` :pencil2:
 
  1. Beginner's C
  2. C Programming (Advanced)
