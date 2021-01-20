@@ -5,6 +5,7 @@
 
 #### `Classes >` :pencil2:
 
+ 0. Python
  1. Beginner's C
  2. C Programming (Advanced)
  3. Java Programming
