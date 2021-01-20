@@ -17,7 +17,7 @@
  9. Embedded Systems
  10. Operating Systems
  
-#### **`Reminders >`**
+#### **`Reminders >`** :exclamation:
 
  1. All assignments/class projects are from past/current semesters. We cannot guarantee the future.
  2. All assignment/projects are written by myself only. I did look up the internet for references.
