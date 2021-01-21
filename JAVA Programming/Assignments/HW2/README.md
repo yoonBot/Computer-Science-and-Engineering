@@ -1,6 +1,6 @@
 # <center> CSE3040: Java Programming (Fall 2020) Homework 2
 
-### **`Problem 6 (20 points) >`**
+#### **`Problem 6 (20 points) >`**
 
 ##### * We would like to write a Java program that prints the Fibonacci sequence. The definition of Fibonacci sequence is as follows.
 ##### F(0) = 0, F(1) = 1, F(n) = F(n - 1) + F(n - 2)
@@ -25,7 +25,7 @@
 ##### * Expected output
 ###### 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233, 377, 610, 987, 1597, 2584, 4181
 
-### **`Problem 7 (20 points) >`**
+#### **`Problem 7 (20 points) >`**
 
 ##### * We would like to write a program that takes an integer from user and prints the integer in a binary number format.
 ##### * In order to fullfill the goal, we have implemented a part of the code. Complete the program so that the program runs without error and produces correct results. 
@@ -53,7 +53,7 @@
 ###### Binary: 1000000
 ##### Tip: You may use Math.pow()
 
-### **`Problem 8 (20 points) >`**
+#### **`Problem 8 (20 points) >`**
 
 ##### * We would like to write a Java program that calculates the sum of area of multiple shapes.
 ##### * Supported shapes are circles, squares, and rectangles.
@@ -73,7 +73,7 @@
 ###### Total area of the shapes is: 131.53981633974485
 ##### * You can use the constant math.PI for calculating area of circles.
 
-### **`Problem 9 (20 points) >`**
+#### **`Problem 9 (20 points) >`**
 
 ##### * We would like to write a Java program that calculates distance between two points in a N - dimensional space. 
 ##### * The program supports two distance metrics: EuclideanDistance and ManhattanDistance.
@@ -105,7 +105,7 @@
 ###### Euclidean Distance: -1.0
 ###### Manhattan Distance: -1.0
 
-### **`Problem 10 (20 points) >`**
+#### **`Problem 10 (20 points) >`**
 
 ##### * We would like to write a Java program that compares two instances of class Points.
 ##### * Class Points has an array of floating-point numbers.
@@ -146,7 +146,7 @@
 ###### null
 ###### false
 
-### **`Java Naming Convention >`**
+#### **`Java Naming Convention >`**
 
 ##### When you write Java code, it is good to follow the Java Naming Convention, which is a rule for naming variables, constants, methods, and classes.
 ##### 1) Variable Names
