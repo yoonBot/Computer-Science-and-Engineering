@@ -1,8 +1,8 @@
 # <h1 align="center"> :leaves: CSE3040 Java Programming (Fall 2020)
 
-![IMG_0800](https://user-images.githubusercontent.com/73013239/105359872-47a8c200-5c3b-11eb-8435-d6dd322b0dff.GIF)
-
 #### **`Lecture Schedule: >`**
+
+![IMG_0800](https://user-images.githubusercontent.com/73013239/105359872-47a8c200-5c3b-11eb-8435-d6dd322b0dff.GIF)
 
 #### **`Week 1. >`** 
 ##### 1. Course Intro / Introduction to Java
