@@ -1,4 +1,4 @@
-# <center> CSE3040 Java Programming (Fall 2020)
+# <h1 align="center"> CSE3040 Java Programming (Fall 2020)
 
 ### **`Week 1. >`** 
 ##### 1. Course Intro / Introduction to Java
