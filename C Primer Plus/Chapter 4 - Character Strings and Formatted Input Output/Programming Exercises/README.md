@@ -1,4 +1,4 @@
-# <center> C Primer Plus Chapter 4 Programming Exercise Problems
+# <h1 align ='center'> C Primer Plus Chapter 4 Programming Exercise Problems
 
 #### 1. Write a program that asks for your first name, your last name, and then prints the names in the format last, first.
 
