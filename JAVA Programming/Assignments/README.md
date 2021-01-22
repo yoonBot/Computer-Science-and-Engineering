@@ -1,4 +1,4 @@
-# <h1 align="center"> :paper: CSE3040 Java Programming (Fall 2020) Assignments Overview
+# <h1 align="center"> :pencil2: CSE3040 Java Programming (Fall 2020) Assignments Overview
 
 ### For anyone accessing this repository, please note:
 #### 1. The assignments are from Fall (2020) semester ONLY. Assignments may change in the future. 
