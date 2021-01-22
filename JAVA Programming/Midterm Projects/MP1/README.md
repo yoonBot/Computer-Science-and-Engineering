@@ -64,6 +64,138 @@
 
 ##### - If you define a new class, all instance variables must be declared as private, if there is any. 
 
+#### **`Problem 13 (20 points) >`**
+
+##### * In this problem, you will write a program that reads text from a file and counts number of appearanes for each alphabet character (a - z)
+
+##### - You are given the code for class Problem13, which must NOT be modified. Write other parts of the code to complete the program.
+
+###### public class Problem13 {
+###### ___public static void main(String[] args) {
+###### ______Text t = new Text();
+###### ______if(t.readTextFromFile("input_prob13.txt")) {
+###### __________for(char c = 'a'; c <= 'z'; c++) {
+###### _____________System.out.println(c + ": " + t.countChar(c));
+###### __________}
+###### ______}
+###### ___}
+###### }
+
+##### - For example, suppose the content of the input file was as follows.
+
+###### Java is a general-purpose programming language that is class-based, object-oriented (although not a pure object-oriented language, as it contains primitive types), and designed to have as few implementation dependencies as possible. It is intended to let application developers write once, run anywhere (WORA) meaning that compiled Java code can run on all platforms that support Java without the need for recompilation. Java applications are typically compiled to bytecode that can run on any Java virtual machine (JVM) regardless of the underlying computer architecture. The syntax of Java is similar to C and C++, but it has fewer low-level facilities than either of them. As of 2019, Java was one of the most popular programming languages in use according to GitHub, particularly for client-server web applications, with a reported 9 million developers.
+
+##### - When we run the program with this input file, the output should be as follows.
+
+###### a: 73
+###### b: 8
+###### c: 28
+###### d: 22
+###### e: 77
+###### f: 11
+###### g: 18
+###### h: 21
+###### i: 53
+###### j: 10
+###### k: 0
+###### l: 36
+###### m: 19
+###### n: 47
+###### o: 50
+###### p: 30
+###### q: 0
+###### r: 42
+###### s: 35
+###### t: 60
+###### u: 20
+###### v: 15
+###### w: 10
+###### x: 1
+###### y: 9
+###### z: 0
+
+##### - When counting the characters, the program should ignore the letter case. In other words, 'A' and 'a' are all counted as 'a's. In the text, 'A' and 'a' appear 73 times in total. 
+
+##### - You do not need to count characters other than [a - z], such as numbers or special characters.
+
+##### - In the code you write, a method must never throw exceptions. For checked exceptions, you should handle all of them using try-catch statements. 
+
+##### - If the input file is not found, your program should print "Input file not found." and terminate. You should NOT make your programs crash due to run-time errors.
+
+##### - If you define a enw class, all instance variables must be declared as private, if there is any. 
+
+#### **`Problem 14 (20 points) >`**
+
+##### * In this problem, you will write a program that reads data from a file and print out statistics on the data.
+
+##### - The input file is a list of items and their prices. Each line of the file consists of a string and a floating-point number. The string corresponds to the item name, and the floating-point number is its price. An example input file looks like this:
+
+###### apple 3.99
+###### watermelon 11.99
+###### strawberries 4.99
+###### pear 6.99
+###### mango 8.99
+###### bananas 1.99
+###### pineapples 7.99
+###### kiwi 5.99
+###### raspberries 2.99
+###### peaches 10.99
+
+##### - You can assume that no two items have the same name, and there are no two items that have the same price.
+
+##### - After reading the file, more items could be added from the main method. 
+
+##### - You are given the code for class Problem14, which must NOT be modified. Write other parts of the code to complete the program.
+
+###### public class Problem14 {
+###### __public static void main(String[] args) {
+###### ____FruitBox<Fruit> box = new FruitBox<>();
+###### ____boolean rv = ItemReader.fileToBox("input_prob14.txt", box);
+###### ____if(rv == false) return;
+###### ____box.add(new Fruit("orange", 9.99));
+###### ____System.out.println("----------------");
+###### ____System.out.println("    Summary");
+###### ____System.out.println("----------------");
+###### ____System.out.println("number of items: " + box.getNumItems());
+###### ____System.out.println("most expensive item: " + box.getMaxItem() + " (" + box.getMaxPrice() + ")");
+###### ____System.out.println("cheaptest item: " + box.getMinItem() + " (" + box.getMinPrice() + ")");
+###### ____System.out.println("average price of items: %.2f", box.getAvgPrice());
+###### __}
+###### }
+  
+##### - As you can see in the example main method, items could be added to the box by reading data from file (ItemReader.fileToBox), or added to the box by calling method add.
+
+##### - For the input file shown above, the output of your program should be as follows. The program first prints all items and their prices on the screen, and then show statistics of data such as number of items, most expensive item, cheapest item, and average price of items. Your program should match the result shown here.
+
+###### apple 3.99
+###### watermelon 11.99
+###### strawberries 4.99
+###### pear 6.99
+###### mango 8.99
+###### bananas 1.99
+###### pineapples 7.99
+###### kiwi 5.99
+###### raspberries 2.99
+###### peaches 10.99
+###### orange 9.99
+###### ----------------
+######    Summary
+###### ----------------
+###### number of items: 11
+###### most expensive item: watermelon (11.99)
+###### cheapest item: bananas (1.99)
+###### average price of items: 6.99
+
+#### -  Assume that if the input file exists, the format will be always correct: item name and price on each line. You do not need to worry about handling wrong input format.
+
+#### - In the code you write, a method must never throw exceptions. For checked exceptions, you should handle all of them using try-catch statements.
+
+#### - If the input file is not found, your program should print "Input file not found." and terminate. You should NOT make your program crash due to run-time errors.
+
+#### - In the evaluation process, we will use a different input file to check the correctness of your program.
+
+#### - If you define a new class, all instance variables must be declared as private, if there is any.
+
 #### **`Problem 15 (20 points) >`**
 
 ##### * In this problem, you will write a program that reads text from a file and print out appearances of each word in the text.
