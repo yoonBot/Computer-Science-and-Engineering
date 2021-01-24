@@ -12,7 +12,7 @@ public class Ex05_08
         {
             n = (int)(Math.random() * 100);
             if(n == 0) break;
-            if(n % 10 == 0) break;
+            if(n % 10 == 0) continue;
             System.out.println(n);
         }
     }
