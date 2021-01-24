@@ -1,4 +1,4 @@
-# <hl align='center'> CSE3040 Java Programming (Fall 2020) - Programming Lab #05
+# <h1 align='center'> CSE3040 Java Programming (Fall 2020) - Programming Lab #05
 
 #### **`05-1. String Comparison >`**
 
