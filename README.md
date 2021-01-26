@@ -3,7 +3,7 @@
 ![B3727BE6-EB69-4668-8B89-79E95FD34B92](https://user-images.githubusercontent.com/73013239/105247750-a547fa80-5bb8-11eb-8fc1-5dd52444385d.GIF)
 
 
-#### **`Classes >`** :pencil2:
+#### **`Courses >`** :pencil2:
 
  0. Python Programming
  1. Beginner's C
