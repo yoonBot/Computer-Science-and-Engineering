@@ -10,10 +10,11 @@ int main(void){
 
     double input;
     printf("Please enter temperature in fahrenheit: ");
-    scanf("%lf", &input);
     
-    Temperature(&input);
-
+    while(scanf("%lf", &input)){
+        Temperature(&input);
+        printf("Please enter temperature in fahrenheit: ");
+    }
     return 0;
 }
 
