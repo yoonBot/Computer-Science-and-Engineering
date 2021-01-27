@@ -23,3 +23,4 @@
  2. All assignment/projects are written by myself only. I did look up the internet for references.
  3. This repository is basically just my notes (of source codes) acquired from lectures from past semesters.
  4. Textbook credentials are given at each topic's separate repository.
+ 5. Most of the directories are indeed parts from some lectures, but few directories are programming tutorials (i.e. C++ Primer Plus, C Primer Plus, Robotic OS). Feel free to access these directories as well.
