@@ -1,4 +1,4 @@
-<h1 align='center'> Contents from Stephen Prata's C++ Primer Plus 6th Edition :booo:
+<h1 align='center'> Contents from Stephen Prata's C++ Primer Plus 6th Edition :book:
 
 ![IMG_0814](https://user-images.githubusercontent.com/73013239/105963493-663c0c80-60c4-11eb-9c12-cad910fd0300.GIF)
 
