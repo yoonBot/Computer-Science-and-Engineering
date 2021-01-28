@@ -21,7 +21,7 @@
 
  1. C Primer Plus
  2. C++ Primer Plus
- 3. Javascript - The Definitive Guide
+ 3. Javascript Tutorial
  4. ROS Tutorial
  
 #### **`Reminders >`** :exclamation:
