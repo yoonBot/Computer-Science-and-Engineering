@@ -9,7 +9,7 @@ import javax.swing.*;
  * @reproducer Jason Oh
  */
 
-public class ImageViewer_2_02 
+public class Listing_2_02_ImageViewer 
 {
     public static void main(String[] args)
     {
