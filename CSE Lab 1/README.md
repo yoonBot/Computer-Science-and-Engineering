@@ -1,4 +1,4 @@
-# <h1 align="center"> :syringe: Computer Science and Engineering Laboratory 1
+# <h1 align="center"> :syringe: CSE3013 Computer Science and Engineering Laboratory 1
 
 ### **`Lecture Schedule: >`**
 
