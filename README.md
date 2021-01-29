@@ -8,7 +8,7 @@
  0. Python Programming
  1. Beginner's C
  2. C Programming (Advanced)
- 3. [Java Programming]{https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3040:%20Java%20Programming}
+ 3. [Java Programming](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3040:%20Java%20Programming)
  4. Assembly
  5. Data Structures in C Language
  6. CSE Lab 1
