@@ -8,12 +8,12 @@
  0. Python Programming
  1. Beginner's C
  2. C Programming (Advanced)
- 3. [Java Programming](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3040:%20Java%20Programming)
- 4. Assembly
- 5. Data Structures in C Language
- 6. CSE Lab 1
- 7. Constructing and Analyzing Algorithms
- 8. CSE Lab 2
+ 3. [CSE3040: Java Programming](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3040:%20Java%20Programming)
+ 4. [CSE3030: Assembly](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3030:%20Assembly%20Programming)
+ 5. [CSE3080: Data Structures in C Language](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3080:%20Data%20Structures)
+ 6. [CSE3013: Lab and Design 1](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3013:%20CSE%20Lab%20and%20Design%201)
+ 7. [CSE3081: Constructing and Analyzing Algorithms](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3081:%20Foundations%20of%20Algorithms)
+ 8. [CSE3016: Lab and Design 2](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3016:%20CSE%20Lab%20and%20Design%202)
  9. Embedded Systems
  10. Operating Systems
 
