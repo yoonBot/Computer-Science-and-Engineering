@@ -19,10 +19,10 @@
 
 #### **`Tutorials >`** :mortar_board:
 
- 1. C Primer Plus 
- 2. C++ Primer Plus
- 3. Javascript Tutorial
- 4. ROS Tutorial
+ 1. [C Primer Plus](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/C%20Primer%20Plus)
+ 2. [C++ Primer Plus](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/C%2B%2B%20Primer%20Plus)
+ 3. [Javascript Tutorial](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/JavaScript%20-%20The%20Definitive%20Guide)
+ 4. [ROS Tutorial](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/ROS)
  
 #### **`Reminders >`** :exclamation:
 
