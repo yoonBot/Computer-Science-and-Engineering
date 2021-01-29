@@ -1,6 +1,6 @@
-# <center> CSE3040: Java Programming (Fall 2020) Homework 1
+# <h1 align='center'> CSE3040: Java Programming (Fall 2020) Homework 1
 
-### Problem 1 (20 points)
+### `Problem 1 (20 points)`
 
 ##### * Write a Java Program that asks user for an alphabet and prints all the ASCII code of the alphabet.
 ##### - The valid user input is a single uppercase letter (A - Z), or a single lowercase letter (a - z).
@@ -12,7 +12,7 @@
 ###### ASCII code teller. Enter a letter: hello
 ###### You must input a single uppercase or lowercase alphabet.
 
-### Problem 2 (20 points)
+### `Problem 2 (20 points)`
 
 ##### * Write a Java program that plays a number guessing game with the user.
 ##### - When the program begins, the program draws a random number from 1 to 100.
@@ -42,7 +42,7 @@
 ###### [4] Guess a number (86 - 99): 98
 ###### Correct! Number of guesses: 4
 
-### Problem 3 (20 points)
+### `Problem 3 (20 points)`
 
 ##### * Write a Java program that counts instances of a letter in a text.
 ##### - When the program begins, the program asks user for a text.
@@ -64,7 +64,7 @@
 ###### Enter a letter: H
 ###### There are 1 H's in the text.
 
-### Problem 4 (20 points)
+### `Problem 4 (20 points)`
 
 ##### * Write a Java program that counts instances of a string in a text.
 ##### - When the program starts, the program asks user for a text.
@@ -85,7 +85,7 @@
 ###### Enter a string: m
 ###### There are 3 instances of "m".
 
-### Problem 5 (20 points)
+### `Problem 5 (20 points)`
 
 ##### * Write a Java program that finds students with the best exam scores.
 ##### - When the program starts, the program asks users for exam scores of five students.
@@ -102,7 +102,7 @@
 ###### The 1st place is student 4 with 90 points. 
 ###### The 2nd place is student 2 with 70 points. 
 
-### * Java Naming Convention 
+### `Java Naming Convention` 
 
 ##### When you write Java code, it is good to follow the Java Naming Convention, which is a rule for naming variables, constants, methods, and classes.
 ##### 1) Variable Names
