@@ -337,7 +337,7 @@
 
 ##### - In the evaludating process, we will use a different input file to check the correctness of your program.
 
-##### - If you define a new class, all instance variables must be declared as private, if there is anu,
+##### - If you define a new class, all instance variables must be declared as private, if there is any.
 
 
 
