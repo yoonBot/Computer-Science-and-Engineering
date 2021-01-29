@@ -1,4 +1,4 @@
-# <center> CSE3040: Java Programming (Fall 2020) Homework 2
+# <h1 align='center'> CSE3040: Java Programming (Fall 2020) Homework 2
 
 #### **`Problem 6 (20 points) >`**
 
