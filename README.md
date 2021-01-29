@@ -8,7 +8,7 @@
  0. Python Programming
  1. Beginner's C
  2. C Programming (Advanced)
- 3. Java Programming
+ 3. [Java Programming]{https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3040:%20Java%20Programming}
  4. Assembly
  5. Data Structures in C Language
  6. CSE Lab 1
@@ -19,7 +19,7 @@
 
 #### **`Tutorials >`** :mortar_board:
 
- 1. C Primer Plus
+ 1. C Primer Plus 
  2. C++ Primer Plus
  3. Javascript Tutorial
  4. ROS Tutorial
