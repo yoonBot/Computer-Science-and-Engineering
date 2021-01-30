@@ -31,3 +31,8 @@
  3. This repository is basically just my notes (of source codes) acquired from lectures from past semesters.
  4. Textbook credentials are given at each topic's separate repository.
  
+#### **`Bonus >`** :bomb:
+ 
+ 1. I've included a personal list of programming questions from varieties of textbook exercises that I could not/had struggle answering.
+ 2. You should create a list of your own so that you can review and refer to your past mistakes and struggles.
+ 
