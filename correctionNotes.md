@@ -1,4 +1,4 @@
-# <h1 align='center'> Review Notes <프로그래밍 오답 노트> :pencil2:
+# <h1 align='center'> Correction Notes <프로그래밍 오답 노트> :pencil2:
 
 #### **`From C Primer Plus Textbook`**
 
