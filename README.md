@@ -7,7 +7,7 @@
 
  0. Python Programming
  1. [CSE2003-01: Introduction to CS Engineering & Design](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE2003:%20Intro%20to%20Engineering%20&%20Design)
- 2. C Programming (Advanced)
+ 2. [C Programming (Advanced)](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE2035:%20Advanced%20C%20Programming)
  3. [CSE3040: Java Programming](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3040:%20Java%20Programming)
  4. [CSE3030: Assembly](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3030:%20Assembly%20Programming)
  5. [CSE3080: Data Structures in C Language](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/CSE3080:%20Data%20Structures)
