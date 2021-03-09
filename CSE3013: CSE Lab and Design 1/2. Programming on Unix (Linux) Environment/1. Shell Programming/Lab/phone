@@ -1,0 +1,33 @@
+## CSE LAB01 WEEK !
+## @reproducer cse20192008
+
+
+# checks for user input
+
+if [ $# -eq 0 ]; # if the number of paramters equals 0
+    
+    then
+
+    # insert newline character
+
+    echo "Usage: phone searchfor [...searchfor]"$'\n'"(You didn't tell me what you wanted to search for.)"
+    exit 0
+
+fi
+
+element=$1 # variable "element" holds the first paramter in argument 
+
+# concatenation
+
+for param in {$@:$2}; 
+
+    do
+    element=$element\|$param 
+
+done
+
+# displays awk screen after user searches a keyword using egrep
+
+egrep -i $element data|awk -f display.awk
+
+exit 0
