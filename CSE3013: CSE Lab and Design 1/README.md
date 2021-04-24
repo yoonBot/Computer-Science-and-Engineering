@@ -29,7 +29,7 @@
 * CPP - 1: Range Array
 * CPP - 2: On Polymorphism 
 
-##### **`5. Projects>`**
+##### **`5. Projects >`**
 
 * Tetris Project
 * Maze Project
