@@ -25,6 +25,7 @@
  2. [C++ Primer Plus](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/C%2B%2B%20Primer%20Plus)
  3. [Javascript Tutorial](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/JavaScript%20-%20The%20Definitive%20Guide)
  4. [ROS Tutorial](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/Robot%20OS%20(ROS))
+ 5. [Algorithms](https://github.com/yoonBot/Computer-Science-and-Engineering/tree/main/Introduction%20to%20Algorithms)
  
 #### **`Reminders >`** :exclamation:
 
