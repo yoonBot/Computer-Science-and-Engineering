@@ -19,3 +19,27 @@
 ##### 2. Compare the current element (key) to its predecessor.
 ##### 3. If the key element is smaller than its predecessor, compare to the elements before the predecessor. 
 ##### 4. Move the greater elements one position up to make space for swapped element (key)
+
+## Merge Sort 
+#### Pseudocode
+```C
+  Merge(A,p,q,r)
+    n1 = q - p + 1
+    n2 = r - q
+    let L[1..n1 + 1] and R[1..n2 + 1] be new arrays
+    for i = 1 to n1
+      L[i] = A[p + i - 1]
+    for j = 1 to n2
+      R[j] = A[q + j]
+    L[n1 + 1] = infinity
+    R[n2 + 1] = infimity
+    i = 1
+    j = 1
+    for k = p to r
+      if L[i] <= R[j]
+        A[k] = L[i]
+        i++
+      else 
+        A[k] = R[j]
+        j++
+```
