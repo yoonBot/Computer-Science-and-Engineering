@@ -30,6 +30,12 @@
       Merge-Sort(A,q + 1,r)
       Merge(A,p,q,r)
 ```
+#### Algorithm Interpretation 
+##### 1. Find the middle point to divide the array into two halves: middle m = l + (r - l) / 2
+##### 2. Call mergeSort for first half: Call mergeSort(arr, l, m)
+##### 3. Call mergeSort for the second half: Call mergeSort(arr, m+1, r)
+##### 4. Merge the two halves sorted in step 2 and 3: Call merge(arr, l, m, r)
+
 ```C
   Merge(A,p,q,r)
     n1 = q - p + 1
