@@ -1,5 +1,6 @@
-# <h1 align='center'> Insertion Sort Algorithm Notes
+# <h1 align='center'> Ch. 1 ~ 2 Algorithm Notes and Interpretations
 
+## Insertion Sort 
 ### Pseudocode
 ```C
   Insertion-Sort(A)
