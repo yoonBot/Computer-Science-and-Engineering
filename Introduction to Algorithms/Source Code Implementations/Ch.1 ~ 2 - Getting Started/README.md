@@ -1,7 +1,7 @@
 # <h1 align='center'> Ch. 1 ~ 2 Algorithm Notes and Interpretations
 
 ## Insertion Sort 
-### Pseudocode
+#### Pseudocode
 ```C
   Insertion-Sort(A)
     for j = 1 to A.length
@@ -14,7 +14,7 @@
     A[i + 1] = key
 
 ```
-### Algorithm Interpretation 
+#### Algorithm Interpretation 
 ##### 1. Iterate from arr[1] to arr[n] over the array. (You dont want to start from arr[0] because arr[0] does not have a predecessor.)
 ##### 2. Compare the current element (key) to its predecessor.
 ##### 3. If the key element is smaller than its predecessor, compare to the elements before the predecessor. 
