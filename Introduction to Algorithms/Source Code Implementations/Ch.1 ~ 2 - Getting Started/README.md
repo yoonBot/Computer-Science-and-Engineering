@@ -26,10 +26,11 @@
   Merge-Sort(A,p,r)
     if p < r
       q = [(p + r)/2]
-      Merge-Sort(A, p, q)
-      Merge-Sort(A, q + 1, r)
-      Merge(A, p, q, r)
-      
+      Merge-Sort(A,p,q)
+      Merge-Sort(A,q + 1,r)
+      Merge(A,p,q,r)
+```
+```C
   Merge(A,p,q,r)
     n1 = q - p + 1
     n2 = r - q
