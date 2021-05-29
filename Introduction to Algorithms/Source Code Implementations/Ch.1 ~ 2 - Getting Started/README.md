@@ -1,6 +1,6 @@
 # <h1 align='center'> Ch. 1 ~ 2 Algorithm Notes and Interpretations
 
-## Insertion Sort 
+## 1. Insertion Sort 
 #### Pseudocode
 ```C
   Insertion-Sort(A)
@@ -20,7 +20,7 @@
 ##### 3. If the key element is smaller than its predecessor, compare to the elements before the predecessor. 
 ##### 4. Move the greater elements one position up to make space for swapped element (key)
 
-## Merge Sort 
+## 2. Merge Sort 
 #### Pseudocode
 ```C
   Merge-Sort(Array,l,r)
