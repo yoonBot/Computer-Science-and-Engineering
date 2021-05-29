@@ -23,33 +23,36 @@
 ## Merge Sort 
 #### Pseudocode
 ```C
-  Merge-Sort(A,p,r)
-    if p < r
-      q = [(p + r)/2]
-      Merge-Sort(A,p,q)
-      Merge-Sort(A,q + 1,r)
-      Merge(A,p,q,r)
+  Merge-Sort(Array,l,r)
+    if l < r
+      return; // returns recursively
+    middle m = [(l + r)/2]
+    Merge-Sort(Array,l,m)
+    Merge-Sort(Array,m + 1,r)
+    Merge(A,l,m,r)
 ```
 #### Algorithm Interpretation 
-##### 1. Find the middle point to divide the array into two halves: middle m = l + (r - l) / 2
+##### 0. In the mergeSort algorithm, the array recursively splits itself into halves until there is one element left each. 
+##### 1. Find the middle point to divide the array into two halves: middle m = l + (r - l) / 2, where l = left and r = right element sizes. 
+##### (we always call mergeSort(array, 0, array_size - 1) because left value (size) is 0 and we want to find the midpoint between 0 and the final size (size - 1). )
 ##### 2. Call mergeSort for first half: Call mergeSort(arr, l, m)
 ##### 3. Call mergeSort for the second half: Call mergeSort(arr, m+1, r)
 ##### 4. Merge the two halves sorted in step 2 and 3: Call merge(arr, l, m, r)
 
 ```C
-  Merge(A,p,q,r)
-    n1 = q - p + 1
-    n2 = r - q
+  Merge(A,l,m,r)
+    n1 = m - l + 1
+    n2 = r - m
     let L[1..n1 + 1] and R[1..n2 + 1] be new arrays
     for i = 1 to n1
-      L[i] = A[p + i - 1]
+      L[i] = A[l + i - 1]
     for j = 1 to n2
-      R[j] = A[q + j]
+      R[j] = A[m + j]
     L[n1 + 1] = infinity
     R[n2 + 1] = infimity
     i = 1
     j = 1
-    for k = p to r
+    for k = l to r
       if L[i] <= R[j]
         A[k] = L[i]
         i++
@@ -57,3 +60,11 @@
         A[k] = R[j]
         j++        
 ```
+#### Algorithm Interpretation 
+##### 0. In the merge algorithm, the divided (sub)subarrays are stored in left and right major subarrays, and then finally merging into one large array. 
+##### 1. Find the starting point of the left and right subarrays, which are (n1) = (m - 1) + 1 and (n2) = (r - m) respectively. 
+##### 2. Create temporary Left and Right subarrays L[n1], R[n2] (store left -> middle elements to L[] array and middle -> right elements to R[]. )
+##### 3. Compare Left[] array values and Right[] array values at the same index prior to merging
+##### 4. Merge the two arrays into one. 
+
+
