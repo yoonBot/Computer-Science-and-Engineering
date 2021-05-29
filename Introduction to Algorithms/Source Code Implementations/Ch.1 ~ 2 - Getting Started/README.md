@@ -25,11 +25,10 @@
 ```C
   Merge-Sort(Array,l,r)
     if l < r
-      return; // returns recursively
-    middle m = [(l + r)/2]
-    Merge-Sort(Array,l,m)
-    Merge-Sort(Array,m + 1,r)
-    Merge(A,l,m,r)
+      middle m = [(l + r)/2]
+      Merge-Sort(Array,l,m)
+      Merge-Sort(Array,m + 1,r)
+      Merge(A,l,m,r)
 ```
 #### Algorithm Interpretation 
 ##### 0. In the mergeSort algorithm, the array recursively splits itself into halves until there is one element left each. 
