@@ -1,6 +1,7 @@
 # <h1 align='center'> Ch. 1 ~ 2 Algorithm Notes and Interpretations
 
 ## 1. Insertion Sort
+#### Approach/Method: Incremental 
 #### **`Pseudocode >`**
 ```C
   Insertion-Sort(A)
@@ -22,12 +23,11 @@
 #### **`Running Time T(n) >`**
 ##### General: 
 ##### -> T(n) = c1(n) + c2(n - 1) + 0(n - 1) + c4(n - 1) + c5(summation(n; j = 2; tj)) + c6(summation(n; j = 2; tj - 1)) + c7(summation(n; j = 2; tj - 1)) + c8(n - 1)
-##### Best-case running time - when elements of the array/list are already sorted from descending to ascending order: 
-##### -> T(n) = c1(n) + c2(n - 1) + c4(n - 1) + c5(n - 1) + c8(n - 1) = (c1 + c2 + c4 + c5 + c8)n - (c2 + c4 + c5 + c8)
 ##### Worst-case running time - when elements of the array/list are already sorted from ascending to descending order: 
 ##### -> T(n) = c1(n) + c2(n - 1) + c4(n - 1) + c5((n(n + 1)) / 2 - 1) + c6(n(n - 1) / 2) + c7(n(n - 1) / 2) + c8(n - 1) = (c5 / 2 + c6 / 2 + c7 / 2)n^2 + (c1 + c2 + c4 + c5 / 2 - c6 / 2 - c7 / 2 + c8)n - (c2 + c4 + c5 + c8)
 
 ## 2. Merge Sort 
+#### Approach/Method: Divide and Conquer
 #### **`Pseudocode >`**
 ```C
   Merge-Sort(Array,l,r)
