@@ -26,7 +26,7 @@
 ##### Worst-case running time - when elements of the array/list are already sorted from ascending to descending order: 
 ##### -> T(n) = c1(n) + c2(n - 1) + c4(n - 1) + c5((n(n + 1)) / 2 - 1) + c6(n(n - 1) / 2) + c7(n(n - 1) / 2) + c8(n - 1) 
 ##### = (c5 / 2 + c6 / 2 + c7 / 2)n^2 + (c1 + c2 + c4 + c5 / 2 - c6 / 2 - c7 / 2 + c8)n - (c2 + c4 + c5 + c8)
-#### Time Complexity (Big Theta Notation): O(n^2)
+#### Time Complexity (Big O-Notation): O(n^2)
 ## 2. Merge Sort 
 #### Approach/Method: Divide and Conquer
 #### **`Pseudocode >`**
@@ -73,6 +73,6 @@
 ##### 2. Create temporary Left and Right subarrays L[n1], R[n2] (store left -> middle elements to L[] array and middle -> right elements to R[]. )
 ##### 3. Compare Left[] array values and Right[] array values at the same index prior to merging.
 ##### 4. Merge the two arrays into one. 
-#### Time Complexity (Big Theta Notation): O(n), where n = r - p + 1 (total number of elements being merged.
+#### Time Complexity (Big O-Notation): O(n), where n = r - p + 1 (total number of elements being merged.
 
 
