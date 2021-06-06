@@ -22,10 +22,28 @@
       else return (cross-low,cross-high,cross-sum)
 ```
 #### **`Algorithm Interpretation >`**
-##### 1. Iterate from arr[1] to arr[n] over the array. (You dont want to start from arr[0] because arr[0] does not have a predecessor.)
-##### 2. Compare the current element (key) to its predecessor.
-##### 3. If the key element is smaller than its predecessor, compare to the elements before the predecessor. 
-##### 4. Move the greater elements one position up to make space for swapped element (key)
+##### 0. In the Find-Maximum-Subarray algorithm, the array splits into two halves and then returns the maximum of either the left/right portion or the entire portion that crosses the midpoint. 
+##### 1. Divide the given array into two halves and find the midpoint.
+##### 2. Calculate the sums of left, right, and crossing portions for comparison using recursion (the crossing part does not use recursion. Only the left and right portions do.).
+##### 3. Return the maximum of either the left-sum, right-sum, or cross-sum. 
+```C
+  Find-Max-Crossing-Subarray(A,low,mid,high)
+    left-sum = -infinity
+    sum = 0
+    for i = mid downto low
+      sum = sum + A[i]
+      if sum > left-sum
+        left-sum = sum
+        max-left = i
+    right-sum = -infinity
+    sum = 0
+    for j = mid + 1 to hgih
+      sum = sum + A[j]
+      if sum > right-sum
+        right-sum = sum
+        max-right = j
+    return (max-left,max-right,left-sum + right-sum)
+```
 #### **`Running Time T(n) >`**
 ##### General: 
 ##### -> T(n) = c1(n) + c2(n - 1) + 0(n - 1) + c4(n - 1) + c5(summation(n; j = 2; tj)) + c6(summation(n; j = 2; tj - 1)) + c7(summation(n; j = 2; tj - 1)) + c8(n - 1)
