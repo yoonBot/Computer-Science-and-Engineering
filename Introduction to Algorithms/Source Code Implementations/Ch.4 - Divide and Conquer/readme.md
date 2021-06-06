@@ -17,7 +17,7 @@
         Find-Maximum-Subarray(A,low,mid,high)
       if left-sum >= right-sum and left-sum >= cross-sum
         return (left-low,left-high,left-sum)
-      elseif right-sum >= left-sum and right-sum >= cross-sum
+      else if right-sum >= left-sum and right-sum >= cross-sum
         return (right-low,right-high,right-sum)
       else return (cross-low,cross-high,cross-sum)
 ```
