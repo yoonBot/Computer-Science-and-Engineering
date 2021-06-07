@@ -69,3 +69,11 @@
         Cij = Cij + aik * bkj
     return C
 ```
+#### **`Algorithm Intepretation >`**
+##### 0. This algorithm performs the basic matrix multiplication 
+##### 1. Compute each row i using outer for loop
+##### 2. Compute each row j using inner for loop
+##### 3. Compute each array in position i, j by adding the products of each row1 and col2 elements. 
+#### **`Running Time T(n) >`**
+##### General: Theta(n^3) time 
+##### Best Case: Big-Omega(n^3)
