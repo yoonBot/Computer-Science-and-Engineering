@@ -10,4 +10,4 @@
 ##### 1. I have explained each algorithm as simple as I can, so those who know basic C/C++ syntax will easily be able to understand each pseudocode and thorough explanations
 ##### 2. I have indeed included not only C but C++ source files because PS (Problem Solving) mostly uses C++ anyways, than C.
 ##### 3. Although Pseudocode and Algorithms are mostly the same for both programming languages, there are some parts that are different, so I have included C++ so that I, and perhaps you, can learn about each of their respective differences. 
-
+##### 4. I have set up timers inside each program because it is important to observe each runtime of the program. Fast runtimes and correct results make the program "efficient". 
