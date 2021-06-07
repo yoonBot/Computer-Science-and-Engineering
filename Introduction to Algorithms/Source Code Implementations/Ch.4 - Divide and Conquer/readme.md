@@ -1,4 +1,4 @@
-# <h1 align='center'> Ch. 1 ~ 2 Algorithm Notes and Interpretations
+# <h1 align='center'> Ch. 4 Algorithm Notes and Interpretations
 
 ## 1. Maximum Subarray Problem 
 #### Approach/Method: Divide and Conquer 
