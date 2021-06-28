@@ -73,6 +73,6 @@
 ##### 2. Create temporary Left and Right subarrays L[n1], R[n2] (store left -> middle elements to L[] array and middle -> right elements to R[]. )
 ##### 3. Compare Left[] array values and Right[] array values at the same index prior to merging.
 ##### 4. Merge the two arrays into one. 
-#### Time Complexity (Big O-Notation): O(n), where n = r - p + 1 (total number of elements being merged.
+#### Time Complexity (Big O-Notation): O(nLogn), where n = r - p + 1 (total number of elements being merged.
 
 
